@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "siteTitle": "Adnan | Civil Technology Diploma Engineer",
+    "description": "Portfolio of Adnan, Diploma Civil Engineer from Rangpur Polytechnic Institute"
+  },
+  "hero": {
+    "name": "Adnan",
+    "title": "Diploma Civil Engineer",
+    "tagline": "Building strong structures, one detail at a time.",
+    "photo": "https://i.ibb.co.com/HLjFDq1G/adnan-pic.jpg",
+    "cvUrl": ""
+  },
+  "about": {
+    "bio": "I am a Civil Technology diploma engineer from Rangpur Polytechnic Institute. I am passionate about structural drawing, estimation, surveying and site supervision, and eager to grow in the construction industry.",
+    "location": "Nator, Bangladesh",
+    "stats": [
+      { "label": "Projects", "value": "0" },
+      { "label": "Software Known", "value": "6+" },
+      { "label": "Certificates", "value": "2" }
+    ]
+  },
+  "contact": {
+    "email": "adnan@example.com",
+    "phone": "+8801700000000",
+    "whatsapp": "+8801700000000",
+    "address": "Rangpur, Bangladesh"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/in/adnan",
+    "facebook": "https://facebook.com/adnan",
+    "github": ""
+  },
+  "education": [
+    {
+      "degree": "Diploma in Engineering (Civil Technology)",
+      "institute": "Rangpur Polytechnic Institute",
+      "year": "2021 - 2025",
+      "result": "CGPA 3.50"
+    },
+    {
+      "degree": "SSC (Science)",
+      "institute": "Rangpur Zilla School",
+      "year": "2020",
+      "result": "GPA 4.50"
+    }
+  ],
+  "skills": [
+    {
+      "group": "Software",
+      "items": [
+        { "name": "AutoCAD", "level": 85 },
+        { "name": "Revit", "level": 65 },
+        { "name": "SketchUp", "level": 70 },
+        { "name": "STAAD Pro", "level": 60 },
+        { "name": "MS Excel", "level": 80 },
+        { "name": "MS Project", "level": 55 }
+      ]
+    },
+    {
+      "group": "Technical",
+      "items": [
+        { "name": "Estimation & Costing", "level": 80 },
+        { "name": "Land Surveying", "level": 75 },
+        { "name": "Structural Drawing", "level": 78 },
+        { "name": "Site Supervision", "level": 65 }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "G+4 Residential Building Design",
+      "type": "Residential",
+      "description": "Architectural and structural drawing of a five-storey residential building with estimation.",
+      "role": "Drafting & Estimation",
+      "tools": ["AutoCAD", "Excel"],
+      "image": "",
+      "link": ""
+    },
+    {
+      "title": "Rural Road Survey & Design",
+      "type": "Road",
+      "description": "Topographic survey, alignment and cross-section drawing for a 2 km rural road.",
+      "role": "Surveyor",
+      "tools": ["Total Station", "AutoCAD"],
+      "image": "",
+      "link": ""
+    },
+    {
+      "title": "Small Bridge Structural Model",
+      "type": "Bridge",
+      "description": "Diploma final-year project: RCC slab bridge design and load analysis.",
+      "role": "Team Member",
+      "tools": ["STAAD Pro", "SketchUp"],
+      "image": "",
+      "link": ""
+    }
+  ],
+  "experience": [],
+  "certificates": [
+    {
+      "name": "AutoCAD 2D & 3D Training",
+      "issuer": "BITAC",
+      "year": "2024"
+    },
+    {
+      "name": "Estimation & Costing Workshop",
+      "issuer": "Rangpur Polytechnic Institute",
+      "year": "2025"
+    }
+  ],
+  "languages": ["Bangla", "English"],
+  "testimonials": []
+}
